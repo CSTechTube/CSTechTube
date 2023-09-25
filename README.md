@@ -3,7 +3,7 @@
 - 🌱 Helping Student to learn all Coding Fundamental and build IT career
 - 💞️ We love to share our IT Experience in Hindi
 - 📫 Follow us and checkout our youtube Channel "CS Techtube"
-- 📢 Connect us on other Social Media profile's too : https://linktr.ee/cstechtube
+- 📢 Connect us on other Social Media and Checkout our Official Website : www.cstechtube.com
 
 <!---
 CSTechTube is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
